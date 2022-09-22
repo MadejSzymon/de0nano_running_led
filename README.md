@@ -10,7 +10,7 @@ KEY1: Change direction
 
 SW[3:0]: Change speed
 
-  (
+  Speed table: (numbers on the left side represent SW inputs [SW3,SW2,SW1,SW0])
   
     1xxx : 8 Hz
     
@@ -22,7 +22,6 @@ SW[3:0]: Change speed
     
     0000 : 0.5 Hz
     
-  )
 
 https://user-images.githubusercontent.com/110915050/191815290-83d09864-e2e4-4e0c-ab71-a5a8735adb58.mp4
 
